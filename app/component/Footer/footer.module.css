@@ -1,0 +1,11 @@
+.end{
+    height: 100px;
+    width: auto;
+    border: solid black 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    font-weight: 700;
+    background-color: aquamarine;
+}

@@ -1,0 +1,34 @@
+.heading{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    display: flex;
+    justify-content:center;
+    align-items:center ;
+    background-color: red;
+    font-size: large;
+    font-weight: 700;
+    height: 50px;
+    
+}
+
+
+
+
+.page{
+    display: flex;
+    justify-content: space-around;
+    font-size: large;
+    text-decoration:underline;
+    list-style-type: disc;
+    background-color: red;
+    color: antiquewhite;
+    
+}
+.list {
+    text-decoration: underline;
+}
+.list:hover{
+    
+    color: blue;
+    
+}
